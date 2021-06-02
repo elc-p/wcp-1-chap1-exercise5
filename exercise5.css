@@ -28,100 +28,84 @@ header {
   margin: 0 20px;
 }
 
-.main-top {
+.main {
   margin: 50px auto 0;
   padding: 0;
   width: 800px;
   display: flex;
-  justify-content: center;
+  flex-wrap: wrap;
 }
 
 .top-1 {
   width: 200px;
   height: 200px;
-  background-color: #cbffd3;
+  background-color: #e6ffe9;
 }
 
 .top-2 {
   width: 200px;
   height: 200px;
-  background-color: #93ffab;
+  background-color: #cbffd3;
 }
 
 .top-3 {
   width: 200px;
   height: 200px;
-  background-color: #5bff7f;
+  background-color: #aeffbd;
 }
 
 .top-4 {
   width: 200px;
   height: 200px;
-  background-color: #2dff57;
-}
-
-.main-mid {
-  margin: 0 auto;
-  padding: 0;
-  width: 800px;
-  display: flex;
-  justify-content: center;
+  background-color: #93ffab;
 }
 
 .mid-1 {
   width: 200px;
   height: 200px;
-  background-color: #edffbe;
+  background-color: #f3ffd8;
 }
 
 .mid-2 {
   width: 200px;
   height: 200px;
-  background-color: #e4ff8d;
+  background-color: #edffbe;
 }
 
 .mid-3 {
   width: 200px;
   height: 200px;
-  background-color: #d6ff58;
+  background-color: #e9ffa5;
 }
 
 .mid-4 {
   width: 200px;
   height: 200px;
-  background-color: #c9ff2f;
-}
-
-.main-bottom {
-  margin: 0 auto;
-  padding: 0;
-  width: 800px;
-  display: flex;
-  justify-content: center;
+  background-color: #e4ff8d;
 }
 
 .bottom-1 {
   width: 200px;
   height: 200px;
-  background-color: #bad3ff;
+  background-color: #d9e5ff;
 }
 
 .bottom-2 {
   width: 200px;
   height: 200px;
-  background-color: #8eb8ff;
+  background-color: #bad3ff;
 }
 
 .bottom-3 {
   width: 200px;
   height: 200px;
-  background-color: #5d99ff;
+  background-color: #a4c6ff;
 }
 
 .bottom-4 {
   width: 200px;
   height: 200px;
-  background-color: #2c7cff;
+  background-color: #8eb8ff;
 }
 
 footer {
